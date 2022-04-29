@@ -10,13 +10,13 @@ A Xray backend framework that can easily support many panels.
 
 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接。
 
-项目地址: [https://github.com/XrayR-project](https://github.com/XrayR-project)
+项目地址: [https://github.com/BaicHome](https://github.com/BaicHome)
 
 ## 项目目录
 
-* [XrayR](https://github.com/XrayR-project/XrayR)：XrayR源码以及软件发布。
-* [XrayR-release](https://github.com/XrayR-project/XrayR-release)：XrayR一键安装脚本以及Docker。
-* [XrayR-doc](https://github.com/XrayR-project/XrayR-doc)：XrayR文档源码。
+* [XrayR](https://github.com/BaicHome/XrayR)：XrayR源码以及软件发布。
+* [XrayR-script](https://github.com/BaicHome/XrayR-script)：XrayR一键安装脚本以及Docker。
+* [XrayR-doc](https://github.com/BaicHome/XrayR-doc)：XrayR文档源码。
 
 ## 特点
 

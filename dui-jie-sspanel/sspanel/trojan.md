@@ -42,5 +42,5 @@ sspanel升级到此版本[Anankke/SSPanel-Uim@8f68b63](https://github.com/Anankk
 示例：gz.aaa.com;port=443|host=gz.aaa.com|enable_xtls=true|flow=xtls-rprx-direct
 ```
 
-同时在本地设置文件将`EnableXTLS`设为true。 配置文件详见：[配置文件说明](https://github.com/XrayR-project/XrayR-doc/tree/af55d4cc45735ca8d00491aa97f8cbbd97c8faf4/sspanel/config/README.md)
+同时在本地设置文件将`EnableXTLS`设为true。 配置文件详见：[配置文件说明](https://github.com/BaicHome/XrayR-doc/tree/af55d4cc45735ca8d00491aa97f8cbbd97c8faf4/sspanel/config/README.md)
 

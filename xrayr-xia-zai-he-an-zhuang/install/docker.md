@@ -44,8 +44,8 @@ chmod +x /usr/local/bin/docker-compose
 
 ## Docker-compose 安装XrayR \(推荐\)
 
-1. `git clone https://github.com/XrayR-project/XrayR-release`
-2. `cd XrayR-release`
+1. `git clone https://github.com/BaicHome/XrayR-script`
+2. `cd XrayR-script`
 3. 编辑配置文件：`config.yml`，详见：[配置文件说明](../../xrayr-pei-zhi-wen-jian-shuo-ming/config.md)
 4. 启动docker：`docker-compose up -d`
 
